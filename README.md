@@ -6,4 +6,7 @@
 2[如何成为一名合格的风控算法工程师？](https://www.zhihu.com/question/264073676)  
 3.[风控模型算法系列文章目录](https://zhuanlan.zhihu.com/p/85582351)  
 4.[风控模型算法](https://zhuanlan.zhihu.com/c_1156982447794233344)  
-5.[金融风控算法](https://www.cnblogs.com/wqbin/category/1566090.html)
+5.[金融风控算法](https://www.cnblogs.com/wqbin/category/1566090.html)  
+
+### 异常检测
+1[数据挖掘中常见的「异常检测」算法有哪些](https://www.zhihu.com/question/280696035)
